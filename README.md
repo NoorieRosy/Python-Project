@@ -1,5 +1,7 @@
 # Python-Project
 
+The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status while taking height into consideration. It is used for both men and women, age 20 or older.
+
 name = input("Enter your name: ")
 
 weight = int(input("Enter your weight in pound: "))
